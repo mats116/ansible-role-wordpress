@@ -11,7 +11,11 @@ none
 
 Available variables are listed below, along with default values:
 
-    wp_version: "4.3.1"
+    wp_version: "4.4"
+
+    #en/en, ja/ja, ru/ru_RU, it/it_IT etc...
+    wp_language: "en"
+    wp_locale: "en"
 
     wp_owner: www-data # HHVM
     wp_group: nginx

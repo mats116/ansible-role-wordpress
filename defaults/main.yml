@@ -1,6 +1,5 @@
 wp_version: "4.4"
 
-#en/en, ru/ru_RU, it/it_IT, ja/ja etc...
 wp_language: "en"
 wp_locale: "en"
 
